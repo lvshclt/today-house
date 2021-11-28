@@ -1,0 +1,26 @@
+// text, back, border 셋중 하나다
+$black: #000;
+$dark: #191a20;
+// 일반적인것보다 좀더 강하게
+
+$primary: #3f4150;
+// 가장 많이 쓰이는 일반적인 텍스트
+$secondary: #8c8d96;
+// primary보다 한단계 덜 쓰이는
+$tertiary: #b2b3b9;
+// 아주 작은 텍스트
+
+$border: #e0e2e7;
+// border. 보통 배경보다 한단계 찐한거
+$background: #f7f8fa;
+// 배경색. 항상 흰색 다음으로 연한 색깔(footer같은)
+
+$white: #fff;
+
+// 확연히 구별되는 건 색이름대로
+$blue: #3da5f5;
+$blue-dark: #3186c4;
+$blue-light: #ecf6fe;
+
+$red: #f86d7d;
+$green: #22c58b;
